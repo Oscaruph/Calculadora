@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="ButtonDigPunto">.</string>
+    <string name="ButtonDigCero">0</string>
+    <string name="ButtonDigUno">1</string>
+    <string name="ButtonDigDos">2</string>
+    <string name="ButtonDigTres">3</string>
+    <string name="ButtonDigCuatro">4</string>
+    <string name="ButtonDigCinco">5</string>
+    <string name="ButtonDigSeis">6</string>
+    <string name="ButtonDigSiete">7</string>
+    <string name="ButtonDigOcho">8</string>
+    <string name="ButtonDigNueve">9</string>
+
+    <string name="ButtonOpIgual">=</string>
+    <string name="ButtonOpSuma">+</string>
+    <string name="ButtonOpResta">-</string>
+    <string name="ButtonOpMult">*</string>
+    <string name="ButtonOpDiv">/</string>
+    <string name="ButtonOpC">C</string>
+    <string name="ButtonOpSim">+/-</string>
+    <string name="ButtonOpPot">^</string>
+    <string name="ButtonOpParI">(</string>
+    <string name="ButtonOpParD">)</string>
+    <string name="ButtonOpRaiz">√</string>
+    <string name="ButtonOpPI">π</string>
+    <string name="ButtonOpSen">Sen</string>
+    <string name="ButtonOpCos">Cos</string>
+    <string name="ButtonOpSec">Sec</string>
+    <string name="ButtonOpCsc">Csc</string>
+    <string name="ButtonOpTan">Tan</string>
+    <string name="ButtonOpCtg">Ctg</string>
+
+</resources>
